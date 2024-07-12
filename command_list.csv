@@ -1,0 +1,145 @@
+    1  terminal
+    2     help ls
+    3  man-k ls
+    4  man ls
+    5  help ls
+    6  help dir
+    7  man ls
+    8  man ls
+    9  ls
+   10  cls
+   11  clear
+   12  ls
+   13  clear
+   14  ls
+   15  cd desktop
+   16  cd :
+   17  ls
+   18  cd desktop
+   19  cd :
+   20  cd :
+   21  cd ~
+   22  cd/
+   23  cd /
+   24  cd desktop
+   25  ls
+   26  pwd
+   27  pwd
+   28  cd..
+   29  cd:
+   30  cd:
+   31  mkdir Lesson2
+   32  mkdir Lesson
+   33  mk dir "Lesson 3"
+   34  touch empty.txt
+   35  clear
+   36  win empty.txt
+   37  clear
+   38   vim empty.txt
+   39  vim empty.txt
+   40  vim empty.txt
+   41  cat empty.txt
+   42  cp empty.txt
+   43  pwd
+   44  cp /c/Users/1/Desktop
+   45  /empty.txt /c/Users/1/Downloads
+   46  pwd
+   47  cp//c/Users/1/Desktop /empty.txt /c/Users/1/Завантаження
+   48  зцв
+   49  pwd
+   50  cp:/c/Users/1/Desktop/empty.txt/c/Users/1/Lesson
+   51  cp://c/Users/1/Desktop/empty.txt Users/1/Desktop/Lesson
+   52  cp:/c/Users/1/Desktop/empty /Users/1/Desktop/Lesson
+   53  ping google.com
+   54  ping google.com
+   55  system profiler
+   56  system info
+   57  systeminfo
+   58  df-h
+   59  df-h
+   60  clear
+   61  system_profiler
+   62  clear
+   63  ifconfig
+   64  ipconfig
+   65  whoami
+   66  chmod
+   67  cd Desktop
+   68  touch test.txt
+   69  chmod 777 test.txt
+   70  cd GIT
+   71  cd git
+   72  cd Git
+   73   git config --global user.name "Larysa Lutsa"
+   74   git config --global user.email llutsa@ukr.net
+   75  git clone https://github.com/Larysa77/Lesson3.1.git
+   76  cd lesson3.1
+   77  touch New.txt
+   78  git add New.txt
+   79  git ststus
+   80  git status
+   81  git commit --m 'New file created"
+   82  git log
+   83  git branch
+   84  git checkout-b new_branch
+   85  git checkout main
+   86  nano New.txt
+   87  1234
+   88  git branch
+   89  git checkout main
+   90  git merge new_branch
+   91  git status
+   92  git commit-a
+   93  git add New txt
+   94  git push
+   95  git push
+   96  git push
+   97  ls
+   98  git push
+   99  git push
+  100  cd/Desktop/HW10
+  101  cd/1/Desktop/HW10
+  102  -c && rm~/.bash_history
+  103  git clone https://github.com/Larysa77/HW_10.git
+  104  cd HW_10
+  105  touch text_ignore.txt
+  106  nano .gitignore "text_ignore.txt"
+  107  git status
+  108  clone https://github.com/Larysa77/HW_10.git
+  109  git clone https://github.com/Larysa77/HW_10.git 
+  110  cd HW-10
+  111  cd HW_10
+  112   touch text_ignore.txt
+  113  nano .gitignore
+  114  text_ignore.txt
+  115  nano.gitignore
+  116  nano .gitignore
+  117  git status
+  118  git add text_ignore.txt
+  119  git commit -m "Changes"
+  120  history-c&&rm~/.bash_history
+  121  cd HW-10
+  122  cd HW_10
+  123  touch text_ignore.txt
+  124  nano .gitignore
+  125  git status
+  126  git add gitignore
+  127  git add text_ignore.txt
+  128  git commit-m changes 
+  129  touch main_test.txt
+  130  git add main_test.txt
+  131  git commit -m 
+  132  git commit - m 
+  133  git commit - m main_test.txt
+  134  git checkout -b develop
+  135  git checkout develop
+  136  touch develop_test.txt
+  137  git add develop_test.txt
+  138  git commit -m changes
+  139  nano develop_test.txt
+  140  git status
+  141  git add develop_test.txt
+  142  git commit - m зміни
+  143  git commit - m  changes develop
+  144  git commit - m
+  145  history>command_list.csv
