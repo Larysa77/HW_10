@@ -143,3 +143,20 @@
   143  git commit - m  changes develop
   144  git commit - m
   145  history>command_list.csv
+  146  git add command_list.csv
+  147  git commit -m changes2
+  148  git push
+  149  git push
+  150  nano.gitignore
+  151  nano.gitignore
+  152  nano .gitignore
+  153  git commit m changes4
+  154  clear
+  155  nano .gitignore
+  156  git status
+  157  git add .gitignore
+  158  git commit m changes4
+  159  git commit -m changes4
+  160  command_list.csv
+  161  command_list.csv
+  162  history>command_list.csv
